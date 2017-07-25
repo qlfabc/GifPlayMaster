@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GifPlayMaster</string>
+    <string name="title_activity_fresco">FrescoActivity</string>
+    <string name="title_activity_glide">GlideActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_gifdrawable">GIFDrawableActivity</string>
+</resources>
